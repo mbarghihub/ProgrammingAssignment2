@@ -1,8 +1,8 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-##
-##
+## 
+## Mreza
 makeCacheMatrix <- function(x = matrix()){
   inver <- NULL
   set <-function(y){
